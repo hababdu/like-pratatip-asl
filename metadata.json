@@ -1,0 +1,6 @@
+{
+  "name": "Like Duel Arena",
+  "description": "Tosh-Qog'oz-Qaychi onlayn duellar, aqlli AI botlar, turnir reytingi va yutuqlar arenasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
